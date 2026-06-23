@@ -1,0 +1,100 @@
+[
+  {
+    "student_id": "1168300383902",
+    "name": "เด็กชายวงศ์วิศว์ ท้วมเพ็ง",
+    "class_name": "ประถมศึกษาปีที่ 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300397890",
+    "name": "เด็กชายทินภัทร อินทรมาน",
+    "class_name": "ประถมศึกษาปีที่ 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1129902617066",
+    "name": "เด็กชายธนกฤษ สุคนธ์",
+    "class_name": "ประถมศึกษาปีที่ 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300387169",
+    "name": "เด็กชายอธิวัฒน์ รอดศรี",
+    "class_name": "ประถมศึกษาปีที่ 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300398969",
+    "name": "เด็กหญิงชญานันท์ วงษ์มณี",
+    "class_name": "ประถมศึกษาปีที่ 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300402800",
+    "name": "เด็กหญิงลลิษา อารีย์",
+    "class_name": "ประถมศึกษาปีที่ 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300379549",
+    "name": "เด็กหญิงสุธาสินี หงษ์ทอง",
+    "class_name": "ประถมศึกษาปีที่ 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300396401",
+    "name": "เด็กหญิงพิชญธิดา โฉมยา",
+    "class_name": "ประถมศึกษาปีที่ 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300382159",
+    "name": "เด็กหญิงกิตติญา คัดทะจันทร์",
+    "class_name": "ประถมศึกษาปีที่ 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300398471",
+    "name": "เด็กหญิงศิริพร ยอดประสาท",
+    "class_name": "ประถมศึกษาปีที่ 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300408310",
+    "name": "เด็กชายนนทพัทธ์ อินทร",
+    "class_name": "ประถมศึกษาปีที่ 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1149901595239",
+    "name": "เด็กหญิงอุทัยวรรณ แป้นวงษ์",
+    "class_name": "ประถมศึกษาปีที่ 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300404187",
+    "name": "เด็กชายวศิน มาลีหอม",
+    "class_name": "ประถมศึกษาปีที่ 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1102004926705",
+    "name": "เด็กหญิงณภัชชา เอี่ยมสะอาด",
+    "class_name": "ประถมศึกษาปีที่ 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  }
+]

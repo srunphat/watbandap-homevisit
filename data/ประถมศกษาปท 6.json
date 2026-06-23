@@ -1,0 +1,107 @@
+[
+  {
+    "student_id": "1149901391463",
+    "name": "เด็กชายณฐนน จวนเผ่า",
+    "class_name": "ประถมศึกษาปีที่ 6",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1169800399515",
+    "name": "เด็กชายพงศพัศ เข็มพรหมมา",
+    "class_name": "ประถมศึกษาปีที่ 6",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300246174",
+    "name": "เด็กชายฤทธิพันธ์ บัวผัด",
+    "class_name": "ประถมศึกษาปีที่ 6",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300254797",
+    "name": "เด็กชายศิวกร พุกสาท",
+    "class_name": "ประถมศึกษาปีที่ 6",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300245259",
+    "name": "เด็กชายณัฐนน ขำอภัย",
+    "class_name": "ประถมศึกษาปีที่ 6",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300248711",
+    "name": "เด็กชายธราทร กล่ำประสาท",
+    "class_name": "ประถมศึกษาปีที่ 6",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300248860",
+    "name": "เด็กหญิงกฤติญา ผดุงโภชน์",
+    "class_name": "ประถมศึกษาปีที่ 6",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300238180",
+    "name": "เด็กหญิงโชติมนต์ แสนโท",
+    "class_name": "ประถมศึกษาปีที่ 6",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1739902710206",
+    "name": "เด็กหญิงชนิดาภา สอนแจ่ม",
+    "class_name": "ประถมศึกษาปีที่ 6",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300243795",
+    "name": "เด็กชายจิรนันท์ สุนทรพฤกษ์",
+    "class_name": "ประถมศึกษาปีที่ 6",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1102004603205",
+    "name": "เด็กหญิงชเอมอร ดิษบุรี",
+    "class_name": "ประถมศึกษาปีที่ 6",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300252026",
+    "name": "เด็กชายสุริยะ รุ่งแจ้ง",
+    "class_name": "ประถมศึกษาปีที่ 6",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1140700103551",
+    "name": "เด็กหญิงจินตนา มาลีวัตร์",
+    "class_name": "ประถมศึกษาปีที่ 6",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300249858",
+    "name": "เด็กชายธนพัฒน์ แป้นสกุล",
+    "class_name": "ประถมศึกษาปีที่ 6",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300240591",
+    "name": "เด็กชายติณณภพ มาสูงเนิน",
+    "class_name": "ประถมศึกษาปีที่ 6",
+    "visit_status": "pending",
+    "visit_data": {}
+  }
+]

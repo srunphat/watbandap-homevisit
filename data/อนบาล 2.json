@@ -1,0 +1,93 @@
+[
+  {
+    "student_id": "1160501137065",
+    "name": "เด็กหญิงกวินธิดา แสงกฤษ",
+    "class_name": "อนุบาล 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1169800452785",
+    "name": "เด็กชายจีรเดช กลัดอยู่",
+    "class_name": "อนุบาล 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1141600043505",
+    "name": "เด็กชายฉัตรมงคล นิ่มดิษฐ",
+    "class_name": "อนุบาล 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1149901708203",
+    "name": "เด็กชายนพคุณ มีเวชสม",
+    "class_name": "อนุบาล 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300481734",
+    "name": "เด็กชายรพีภัทร จ้าวค้างพลู",
+    "class_name": "อนุบาล 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1159900749925",
+    "name": "เด็กหญิงกัญญาณัฐ อ่ำสว่าง",
+    "class_name": "อนุบาล 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1169300477249",
+    "name": "เด็กหญิงกัณฑิมา สุคนธ์",
+    "class_name": "อนุบาล 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300476196",
+    "name": "เด็กหญิงนภัสวรรณ ถาวรทัศน์",
+    "class_name": "อนุบาล 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300474819",
+    "name": "เด็กหญิงนริศรา ช้างเที่ยง",
+    "class_name": "อนุบาล 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1200601659771",
+    "name": "เด็กหญิงเบญญาภา ประพันธ์",
+    "class_name": "อนุบาล 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300473081",
+    "name": "เด็กหญิงโปรดปราน นวลละออง",
+    "class_name": "อนุบาล 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300478288",
+    "name": "เด็กหญิงพรอุมา ธีราโมกข์",
+    "class_name": "อนุบาล 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300488356",
+    "name": "เด็กหญิงวชิรญภรณ์ หงษ์ทอง",
+    "class_name": "อนุบาล 2",
+    "visit_status": "pending",
+    "visit_data": {}
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "student_id": "1168300448427",
+    "name": "เด็กชายกรวิชญ์ หมื่นสงค์",
+    "class_name": "อนุบาล 3",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300462390",
+    "name": "เด็กชายธนเดช ผิวเหลือง",
+    "class_name": "อนุบาล 3",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300448818",
+    "name": "เด็กชายธนภัทร วัตรยิ้ม",
+    "class_name": "อนุบาล 3",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300440990",
+    "name": "เด็กชายนนท์ณภัทร เจริญใจ",
+    "class_name": "อนุบาล 3",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300439312",
+    "name": "เด็กชายปกรณ์ ศรีทอง",
+    "class_name": "อนุบาล 3",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1159900733875",
+    "name": "เด็กชายศุภวิชญ์ อ่ำสว่าง",
+    "class_name": "อนุบาล 3",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300454150",
+    "name": "เด็กชายอภิวัฒน์ จันพูล",
+    "class_name": "อนุบาล 3",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300451983",
+    "name": "เด็กหญิงปรียาภรณ์ ทันเจริญ",
+    "class_name": "อนุบาล 3",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300443701",
+    "name": "เด็กหญิงพาขวัญ ทรัพย์ล้อม",
+    "class_name": "อนุบาล 3",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300461831",
+    "name": "เด็กหญิงไอรดา นิทรัพย์",
+    "class_name": "อนุบาล 3",
+    "visit_status": "pending",
+    "visit_data": {}
+  }
+]

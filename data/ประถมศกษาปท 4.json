@@ -1,0 +1,79 @@
+[
+  {
+    "student_id": "1168300324477",
+    "name": "เด็กชายกฤษณะ ภู่สืบ",
+    "class_name": "ประถมศึกษาปีที่ 4",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300314609",
+    "name": "เด็กชายกิตติพัฒน์ วัดเรือง",
+    "class_name": "ประถมศึกษาปีที่ 4",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1104301663051",
+    "name": "เด็กชายจักรกฤษณ์ สัมมาโมกข์",
+    "class_name": "ประถมศึกษาปีที่ 4",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300334090",
+    "name": "เด็กชายชนาธิป อ่อนพิมพ์",
+    "class_name": "ประถมศึกษาปีที่ 4",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300340146",
+    "name": "เด็กชายธนเทพ วัตรยิ้ม",
+    "class_name": "ประถมศึกษาปีที่ 4",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300333565",
+    "name": "เด็กชายรัฐนันท์ เฆมพุ่ม",
+    "class_name": "ประถมศึกษาปีที่ 4",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300321991",
+    "name": "เด็กหญิงรักษิณา เสมพงค์",
+    "class_name": "ประถมศึกษาปีที่ 4",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1619700050699",
+    "name": "เด็กชายพัชรพล สุทธิมาลย์",
+    "class_name": "ประถมศึกษาปีที่ 4",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300339326",
+    "name": "เด็กชายจิรภัทท์ อุบลวัตร์",
+    "class_name": "ประถมศึกษาปีที่ 4",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1103200414143",
+    "name": "เด็กชายศิวัช กรไกร",
+    "class_name": "ประถมศึกษาปีที่ 4",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300332518",
+    "name": "เด็กหญิงชรินทร์ทิพย์ มณีเนตร",
+    "class_name": "ประถมศึกษาปีที่ 4",
+    "visit_status": "pending",
+    "visit_data": {}
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "student_id": "1168300375306",
+    "name": "เด็กชายธนัชชัย ทองสาร",
+    "class_name": "ประถมศึกษาปีที่ 3",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300364908",
+    "name": "เด็กชายนพสิทธิ์ หอมฉุน",
+    "class_name": "ประถมศึกษาปีที่ 3",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300344591",
+    "name": "เด็กชายพิชญภาคย์ หงษ์ทอง",
+    "class_name": "ประถมศึกษาปีที่ 3",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300372650",
+    "name": "เด็กชายศุภกร เอี่ยมยิ่ง",
+    "class_name": "ประถมศึกษาปีที่ 3",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300369799",
+    "name": "เด็กชายอัศวิน ป้องปิด",
+    "class_name": "ประถมศึกษาปีที่ 3",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1199600610611",
+    "name": "เด็กหญิงกัญญาณัฐ เมืองสันต์",
+    "class_name": "ประถมศึกษาปีที่ 3",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300348112",
+    "name": "เด็กหญิงนิภาพร สมเพ็ชร",
+    "class_name": "ประถมศึกษาปีที่ 3",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1149901529392",
+    "name": "เด็กหญิงผกามาศ พงษ์ทัพ",
+    "class_name": "ประถมศึกษาปีที่ 3",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300351989",
+    "name": "เด็กหญิงลลิษา ปุ้นผล",
+    "class_name": "ประถมศึกษาปีที่ 3",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300376612",
+    "name": "เด็กหญิงสุทธิรักษ์ จันพูล",
+    "class_name": "ประถมศึกษาปีที่ 3",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300376361",
+    "name": "เด็กหญิงศุภิสรา เนาวรัตน์",
+    "class_name": "ประถมศึกษาปีที่ 3",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1648900228016",
+    "name": "เด็กชายปรีชา อัญทปัญญา",
+    "class_name": "ประถมศึกษาปีที่ 3",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300369560",
+    "name": "เด็กชายณัฐสิทธิ์ พานิช",
+    "class_name": "ประถมศึกษาปีที่ 3",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1199600604905",
+    "name": "เด็กหญิงวิภาวรรณ วิทย์ไธสง",
+    "class_name": "ประถมศึกษาปีที่ 3",
+    "visit_status": "pending",
+    "visit_data": {}
+  },
+  {
+    "student_id": "1168300374857",
+    "name": "เด็กชายฐาปกร กี่สง่า",
+    "class_name": "ประถมศึกษาปีที่ 3",
+    "visit_status": "pending",
+    "visit_data": {}
+  }
+]
