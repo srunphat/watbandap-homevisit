@@ -2819,9 +2819,9 @@
                         request.onsuccess = (e) => {
                             clearTimeout(timeoutId);
                             this.db = e.target.result;
+                            done(false);
                             this.checkAndInsertMockData()
-                                .catch((err) => console.error("Mock data loading error:", err))
-                                .finally(() => done(false));
+                                .catch((err) => console.error("Mock data loading error:", err));
                         };
                         request.onblocked = () => {
                             console.warn("IndexedDB database is blocked. Using safeStorage fallback.");
@@ -2926,7 +2926,8 @@
                 try {
                     const count = await this.countStudents();
                     if (count > 0) return;
-                    await this.checkAndInsertMockData();
+                    this.checkAndInsertMockData()
+                        .catch((err) => console.error("checkAndInsertMockData error:", err));
                 } catch (e) {
                     console.error("initLocalStorage execution error:", e);
                 }
