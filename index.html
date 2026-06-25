@@ -1734,7 +1734,7 @@
         <div class="sidebar-footer">
             <p>โรงเรียนวัดบ้านดาบ</p>
             <p style="margin-top: 4px; font-size: 9px;">แบบฟอร์ม นร./กสศ. 01 (ปรับปรุง มี.ค. 2569)</p>
-            <p style="margin-top: 6px; font-size: 10px;">พัฒนาโปรแกรมโดย <span class="credit" style="display: inline-block; white-space: nowrap;">ผอ.ศรัณย์ภัทร สุดหล่อ</span> 💻✨ (v1.6)</p>
+            <p style="margin-top: 6px; font-size: 10px;">พัฒนาโปรแกรมโดย <span class="credit" style="display: inline-block; white-space: nowrap;">ผอ.ศรัณย์ภัทร สุดหล่อ</span> 💻✨ (v1.7)</p>
         </div>
     </div>
 
@@ -3474,7 +3474,9 @@
                     } catch (e) {
                         console.warn("เซิร์ฟเวอร์หลักตัดการเชื่อมต่อ กำลังสลับบันทึกข้อมูลออฟไลน์:", e);
                         apiService.switchToOffline();
+                        const localRecord = await localDB.getStudent(cls, id);
                         const student = {
+                            ...(localRecord || {}),
                             student_id: id,
                             class_name: cls,
                             visit_status: 'completed',
@@ -3485,7 +3487,9 @@
                         return { success, fallbackOffline: true };
                     }
                 } else {
+                    const localRecord = await localDB.getStudent(cls, id);
                     const student = {
+                        ...(localRecord || {}),
                         student_id: id,
                         class_name: cls,
                         visit_status: 'completed',
